@@ -1,9 +1,10 @@
 {
   "app_name": "Professional Cinema Controller",
-  "version": "1.0.0",
-  "url": "https://drive.usercontent.google.com/download?id=1e8AXnq_Im8D9rsrEc3boV4gqu_EoxXgn&export=download",
-  "notes": "Initial stable release",
-  "sha256": "02036fda63693cac6a4b6bbd7ab71d5d5b385f61471cf04e6042194f475a0c6b"
+  "version": "1.0.1",
+  "url": "https://drive.google.com/uc?export=download&id=1hI678tqJ4e2nDYXCyS0orVxuMIKIf9O-",
+  "notes": "Bug fixes, offline trial import, license key reuse protection, update auto‑cleanup, new app icon, UI polish, and relinked playlist improvements.",
+  "sha256": "C22126A88108088781CF8D7255F7CF2F3E45ED55B61A912F0E90E0561694D98A"
 }
+
 
 
